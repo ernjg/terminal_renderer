@@ -1,0 +1,9 @@
+# Build artefacts
+/build/
+/*.o
+/*.a
+/*.so
+/*.exe
+# VS Code, CLion, etc.
+.vscode/
+.idea/
